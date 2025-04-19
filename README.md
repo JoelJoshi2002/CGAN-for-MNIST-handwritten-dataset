@@ -30,7 +30,7 @@ pip install torch torchvision numpy matplotlib tqdm
 # Setup
 
 Clone the repository:
-git clone https://github.com/yourusername/GAN-MNIST.git
+git clone https://github.com/JoelJoshi2002/CGAN-for-MNIST-handwritten-dataset
 cd GAN-MNIST
 
 
